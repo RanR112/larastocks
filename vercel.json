@@ -22,7 +22,7 @@
     "env": {
         "APP_ENV": "production",
         "APP_DEBUG": "false",
-        "APP_URL": "https://mdc.aoyama.vercel.app/",
+        "APP_URL": "https://larastocks.vercel.app/",
         "APP_KEY": "base64:Fdvu73nw5INUnk4WbaWNXKWEH2FfhPCNm+r32mJSpXc=",
         "APP_CONFIG_CACHE": "/tmp/config.php",
         "APP_EVENTS_CACHE": "/tmp/events.php",
